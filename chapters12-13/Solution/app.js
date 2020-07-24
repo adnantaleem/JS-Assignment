@@ -7,10 +7,10 @@ if(value1 === value2){
     alert("Value Comparison\nBoth Valuue are same");
 }
 else if(value1 > value2){
-    alert( "1st Value is Bigger");
+    alert( value1 + " is Bigger");
 }
 else if(value1 < value2){
-    alert( "Second Value is Bigger");
+    alert( value2 + " is Bigger");
 }
 else{
     alert("please enter only number");
